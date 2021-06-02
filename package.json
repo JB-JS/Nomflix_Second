@@ -31,7 +31,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://jb-js.github.io/Nomflix_Second",
+  "homepage": "https://adoring-lovelace-42f3ab.netlify.app/",
   "browserslist": {
     "production": [
       ">0.2%",
