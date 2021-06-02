@@ -178,7 +178,6 @@ const DetailPresenter = ({ result, loading, error, id, pathname, url }) =>
                     </Item>
                   </ItemContainer>
                   <Overview>{result.overview}</Overview>
-                  {console.log(result)}
 
                   {result.videos.results.length > 0 && (
                     <ItemSection>

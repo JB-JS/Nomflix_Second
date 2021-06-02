@@ -31,7 +31,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://jb-js.github.io/Nomflix_Second/",
+  "homepage": "https://jb-js.github.io/Nomflix_Second",
   "browserslist": {
     "production": [
       ">0.2%",
