@@ -4,6 +4,8 @@
 
 데이터를 받와와서 리엑트로 렌더링 해주는 사이트입니다.
 
+nettlify에 호스팅 하였습니다 이동 -> [nettlify](https://adoring-lovelace-42f3ab.netlify.app/#/)
+
 ## Views
 
 - [x] Home
